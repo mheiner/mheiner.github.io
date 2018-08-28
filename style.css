@@ -112,7 +112,6 @@ height: 26px;
 line-height: 26px;
 float: left;
 width: 157px;
-/*width: 196px;*/
 display: block;
 border-bottom: 1px solid #999;
 border-right: 1px solid #999;
@@ -132,6 +131,7 @@ float: none
 
 .menu
 {
+/* width: 1500; */
 width: 100%;
 text-align: center
 }
