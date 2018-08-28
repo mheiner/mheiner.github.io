@@ -77,14 +77,15 @@ color: green;
 
 .title {
 font-style: italic;
-color: green;
+color: darkgreen;
 }
 .place {
 font-weight: bold;
 }
 .highlight {
-font-weight: bold;
-color: #ff6500;
+/* font-weight: bold; */
+/* color: #ff6500 */
+color: darkred
 }
 
 
@@ -155,7 +156,3 @@ text-align: center
 	font-size: .8em;
 	font-weight: bold;
 }
-
-
-
-
